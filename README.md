@@ -1,6 +1,6 @@
 # D-FLIPDLOP-NEGEDGE
-**Developed by: S DEVESH SHARMA
-RegisterNumber: 212222110008
+**Developed by: S DEVESH SHARMA**
+**RegisterNumber: 212222110008**
 
 **AIM:**
 
